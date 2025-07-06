@@ -57,7 +57,7 @@ payslip-system/<br>
 ### 1. Clone repositori
 
 ```bash
-git clone https://github.com/namauser/payslip-system.git
+git clone https://github.com/wibowo-id/payslip-system
 cd payslip-system
 
 2. Jalankan Aplikasi
