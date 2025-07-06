@@ -32,22 +32,22 @@ Sistem penggajian terintegrasi berbasis web dengan fitur absensi, lembur, pengga
 
 ## 📂 Struktur Proyek
 
-payslip-system/
-├── cmd/ # Entry point aplikasi (main.go)
-├── config/ # File konfigurasi (.env, dsb)
-├── internal/
-│ ├── auth/ # Modul autentikasi
-│ ├── attendance/ # Modul absensi
-│ ├── overtime/ # Modul lembur
-│ ├── reimbursement/ # Modul reimbursement
-│ ├── payroll/ # Modul periode gaji
-│ ├── payslip/ # Modul slip gaji
-│ └── user/ # Manajemen pengguna
-├── pkg/
-│ ├── middleware/ # Middleware JWT dan mock
-│ └── logger/ # Logging utilitas
-├── tests/ # Integrasi end-to-end test
-└── go.mod / go.sum # Modul Go
+payslip-system/<br>
+├── cmd/ # Entry point aplikasi (main.go)<br>
+├── config/ # File konfigurasi (.env, dsb)<br>
+├── internal/<br>
+│ ├── auth/ # Modul autentikasi<br>
+│ ├── attendance/ # Modul absensi<br>
+│ ├── overtime/ # Modul lembur<br>
+│ ├── reimbursement/ # Modul reimbursement<br>
+│ ├── payroll/ # Modul periode gaji<br>
+│ ├── payslip/ # Modul slip gaji<br>
+│ └── user/ # Manajemen pengguna<br>
+├── pkg/<br>
+│ ├── middleware/ # Middleware JWT dan mock<br>
+│ └── logger/ # Logging utilitas<br>
+├── tests/ # Integrasi end-to-end test<br>
+└── go.mod / go.sum # Modul Go<br>
 
 
 ---
